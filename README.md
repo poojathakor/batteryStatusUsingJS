@@ -28,6 +28,6 @@ window.onload = function () {
     };
     
 ```
-screenshot is attached
+screenshot :
 
 ![alt text](https://github.com/poojathakor/batteryStatusUsingJS/blob/master/ss.jpg)
